@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.card {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        width: 300px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 20px;
+      }
+      
+      .card img {
+/*         width:500px; */
+        height: 400px;
+      }
+      
